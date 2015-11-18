@@ -7,7 +7,7 @@ Create one R script called run_analysis.R that does the following:
     3.Uses descriptive activity names to name the activities in the data set.
     4.Appropriately labels the data set with descriptive variable names. 
     5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-two output files are generated in the current working directory:
+Two output files are generated in the current working directory:
     1.merged_data.txt: it contains a data frame called cleanedData with 10299*68 dimension.
     2.data_with_means.txt: it contains a data frame called result with 180*68 dimension.
 
